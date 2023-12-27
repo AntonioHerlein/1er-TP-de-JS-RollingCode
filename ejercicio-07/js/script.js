@@ -7,4 +7,4 @@ Output: Hola Coder
 */
 
 let nombreIngresado = prompt("Ingrese su nombre");
-document.write(<p>Hola + nombreIngresado</p>);
+document.write("Hola " + nombreIngresado);
